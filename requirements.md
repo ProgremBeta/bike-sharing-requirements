@@ -16,3 +16,6 @@
   * El sistema debe permitir realizar filtros al usuario
 
 ## Requisitos no funcionales
+  *  El sistema debe responder a las solicitudes de los usuarios en un tiempo máximo de 3 segundos
+  *  Los datos de los usuarios deben almacenarse de forma segura y cifrada
+  *  El sistema debe estar disponible al menos el 99% del tiempo para permitir consultas y préstamos de bicicletas
